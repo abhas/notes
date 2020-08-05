@@ -4,10 +4,7 @@ tags: [home]
 
 # Mostly Harmless Notes
 
-You are viewing a [neuron-template](https://github.com/srid/neuron-template) Zettelkasten published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository is updated.
+## Command-line
 
-Get started by reading <README>.
+* <e75cab64>
 
-Other pages on this zettelkasten (this demonstrates how to use tag queries):
-
-<z:zettels?tag=other>
