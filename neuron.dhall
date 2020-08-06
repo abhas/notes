@@ -1,8 +1,8 @@
-{ siteTitle = "Abhas' Notes From the Underground"
+{ siteTitle = "Abhas' HHGTTG"
 , author = Some "Abhas Abhinav"
-, siteBaseUrl = Some "https://abhas.github.io/neuron-template"
+, siteBaseUrl = Some "https://abhas.github.io/notes"
 -- List of themes: https://neuron.zettel.page/2014601.html
-, theme = "teal"
-, editUrl = Some "https://github.com/abhas/neuron-template/edit/master/"
+, theme = "purple"
+, editUrl = Some "https://github.com/abhas/notes/edit/master/"
 , mathJaxSupport = False
 }
