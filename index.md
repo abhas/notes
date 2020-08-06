@@ -7,4 +7,4 @@ tags: [home]
 ## Command-line
 
 * <e75cab64>
-
+* <git-amend>
