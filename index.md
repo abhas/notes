@@ -8,3 +8,4 @@ tags: [home]
 
 * <e75cab64>
 * <git-amend>
+* <ultrawide>
