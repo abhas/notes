@@ -2,11 +2,8 @@
 tags: [home]
 ---
 
-# Abhas' Notes 
-# .. *From the Underground*
+# Abhas' HHGTTG
 
-## Command-line
+An attempt to document random daily learnings, snippets and idea. Hopefully, this will lead to a real [*zettelkasten*](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125) over time.
 
-* <e75cab64>
-* <git-amend>
-* <ultrawide>
+<z:zettels?timeline>
