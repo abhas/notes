@@ -4,7 +4,7 @@ tags:
   - indieweb
 ---
 
-# IndieWeb Links
+# IndieWeb - A Primer
 
 > "We should all own the content we're creating, rather than just posting to third-party content silos. Publish on your own domain, and syndicate out to silos. This is the basis of the "Indie Web" movement."
 
