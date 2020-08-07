@@ -8,7 +8,7 @@ tags:
 
 > "We should all own the content we're creating, rather than just posting to third-party content silos. Publish on your own domain, and syndicate out to silos. This is the basis of the "Indie Web" movement."
 
-I chanced upon the world of IndieWeb and microformats while trying to search for a system to publish short notes (neuron is something I discovered in this process). Here is a summary of the research:
+I chanced upon the world of IndieWeb and microformats while trying to search for a system to publish short notes ([neuron](https://neuron.zettel.page/) is something I discovered in this process). Here is a summary of the research:
 
 ## What is the IndieWeb?
 
